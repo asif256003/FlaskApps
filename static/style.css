@@ -34,6 +34,14 @@ body{
     background-color:white;
     margin: 10px;
 }
+/* Added in fronend branch*/
+.blogs h2{
+    background-color: black;
+    color:white;
+    margin:auto;
+    padding: 10px;
+}
+/* Addition ends here */
 #blogs1{
     /*flex:1;*/
     order:3;
@@ -53,7 +61,6 @@ body{
     flex-basis: 30%;
 }
 .blogs h2{
-    color: black;
     text-align: center;
 }
 .image-align{
